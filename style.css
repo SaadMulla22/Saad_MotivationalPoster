@@ -1,0 +1,20 @@
+body{
+    background-color: blueviolet;
+}
+.saad{
+    width: 50%;
+    margin-top: 50px;
+    margin-left: 25%;
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+}
+.saad1{
+    border: 5px solid white;
+    width:100%
+    
+}
+h1{
+    text-transform: uppercase;
+    font-size: 3rem;
+}
